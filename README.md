@@ -5,7 +5,7 @@ The Tech Academy Special C-Sharp Projects
 
 
 ## **Introduction**
-This repository contains the The Tech Academy Special C-Sharp Project that I completed as part of my course. The project is a web-based application created using  C-Sharp to demonstrate my understanding of .NET development principles. In this README, you will find information about the project's purpose, the technologies used, the launch version, and other essential details to help you understand and potentially reproduce the project.
+This repository contains the The Tech Academy Special C-Sharp Project that I completed as part of my course. In this README, you will find information about the project's purpose, the technologies used, the launch version, and other essential details to help you understand and potentially reproduce the project.
 
 ## **Technologies**
 The project primarily makes use of the following technologies:

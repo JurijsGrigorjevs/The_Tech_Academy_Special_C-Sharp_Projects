@@ -1,7 +1,8 @@
 # The-Tech-Academy-Special-C-Sharp-Projects
 The Tech Academy Special C-Sharp Projects
 
-![Static Badge](https://img.shields.io/badge/C-Sharp-purpul)
+![Static Badge]([https://img.shields.io/badge/C-Sharp-purpul](https://img.shields.io/badge/C_Sharp-8A2BE2
+))
 
 
 ## **Introduction**

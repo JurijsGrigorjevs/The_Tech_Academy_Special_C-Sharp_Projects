@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Welcome_to_Acme_Accounting_Systems/1.0.0": {
+        "runtime": {
+          "Welcome_to_Acme_Accounting_Systems.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Welcome_to_Acme_Accounting_Systems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

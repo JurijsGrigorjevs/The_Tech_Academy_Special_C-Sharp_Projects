@@ -33,6 +33,13 @@ class Program
  int num8 = 8;
  int quotient = num7 / num8;
  Console.WriteLine(quotient);
+
+    int num9 = 7;
+   float num10 = 5.5f;
+   float total1 = num9 + num10;
+   int total2 = num9 + (Int32)num10;
+   Console.WriteLine(total1);
+   Console.WriteLine(total2);
     }
 }
 

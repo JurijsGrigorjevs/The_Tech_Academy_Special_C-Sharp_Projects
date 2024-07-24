@@ -31,7 +31,7 @@ class Program
  // Division
  int num7 = 81;
  int num8 = 8;
- int quotient = num7 * num8;
+ int quotient = num7 / num8;
  Console.WriteLine(quotient);
     }
 }

@@ -36,10 +36,21 @@ class Program
 
                 int num9 = 7;
                float num10 = 5.5f;
-               float total11 = num9 + num10;
-               int total12 = num9 + (Int32)num10;
-               Console.WriteLine(total11);
-               Console.WriteLine(total12);
+               float total1 = num9 + num10;
+               int total2 = num9 + (Int32)num10;
+               Console.WriteLine(total1);
+               Console.WriteLine(total2);
+
+                // Math casting
+                double num11 = 7.03230923;
+                float num12 = 5.9f;
+                double total3 = num11 + num12;
+                Console.WriteLine(total3);
+
+                double num13 = 7.03230923;
+                float num14 = 5.9f;
+                float total4 = (float)num13 + num14;
+                Console.WriteLine(total4);
     }
 }
 

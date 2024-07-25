@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Welcome_to_Acme_Accounting_Systems")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a80a17f5eb32145b2e47a57327a57d04b1cc43ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ba5e5b407ba5bcf8949a41e0ebb25ae91c60db3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Welcome_to_Acme_Accounting_Systems")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Welcome_to_Acme_Accounting_Systems")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

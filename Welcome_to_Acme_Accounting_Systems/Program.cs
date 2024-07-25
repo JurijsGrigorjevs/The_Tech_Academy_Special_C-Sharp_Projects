@@ -62,6 +62,15 @@ class Program
         sbyte num18 = 5;
         decimal total16 = num17 + num18;
         Console.WriteLine(total16);
+
+        // Math with strings
+        string firstName = "Joe";
+        string lastName = "Smith";
+        Console.WriteLine(firstName + lastName);
+
+        string name = "Joe";
+        int number = 5;
+        Console.WriteLine(name + number);
     }
 }
 

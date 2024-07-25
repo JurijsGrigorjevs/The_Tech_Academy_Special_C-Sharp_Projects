@@ -51,6 +51,17 @@ class Program
                 float num14 = 5.9f;
                 float total4 = (float)num13 + num14;
                 Console.WriteLine(total4);
+
+        // Casting with math
+        decimal num15 = 7.03230923m;
+        int num16 = 5;
+        decimal total5 = num16 + num15;
+        Console.WriteLine(total5);
+
+        decimal num17 = 7.03230923m;
+        sbyte num18 = 5;
+        decimal total16 = num17 + num18;
+        Console.WriteLine(total16);
     }
 }
 

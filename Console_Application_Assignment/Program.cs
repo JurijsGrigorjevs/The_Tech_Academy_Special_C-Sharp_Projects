@@ -111,7 +111,7 @@ namespace Console_Application_Assignment
 
 
             // Takes an input from the user, divides it by 7, then prints the remainder to the console (tip: think % operator).
-            Console.WriteLine("Enter any number from 1 to 100.");
+            Console.WriteLine("Enter any number between 1 and 100 and that number will be divided by 7 and then the remainder will be printed to the console.");
 
             while (true)
             {
@@ -126,6 +126,7 @@ namespace Console_Application_Assignment
                     Console.WriteLine("You entered the correct number and now number be divides by 7 and then the remainder will be printed to the console.");
                     int remNum3 = Convert.ToInt32(remNum1) % 7;
                     Console.WriteLine(remNum3);
+                    Console.ReadLine();
                     break; // Exit the loop if input is valid
                 }
                 else

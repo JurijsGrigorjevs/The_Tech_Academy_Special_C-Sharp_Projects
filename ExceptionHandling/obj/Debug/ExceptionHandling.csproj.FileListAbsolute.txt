@@ -1,0 +1,7 @@
+C:\Users\Public\Tutorial - Exception Handling Part 1, 2\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Public\Tutorial - Exception Handling Part 1, 2\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Public\Tutorial - Exception Handling Part 1, 2\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Public\Tutorial - Exception Handling Part 1, 2\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Public\Tutorial - Exception Handling Part 1, 2\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Public\Tutorial - Exception Handling Part 1, 2\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Public\Tutorial - Exception Handling Part 1, 2\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

@@ -1,0 +1,3 @@
+[submodule "AspNetCoreWebApplication"]
+	path = AspNetCoreWebApplication
+	url = https://github.com/JurijsGrigorjevs/AspNetCoreWebApplication.git

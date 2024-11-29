@@ -1,0 +1,14 @@
+C:\Users\Public\Scores\Scores\bin\Debug\net9.0\Scores.exe
+C:\Users\Public\Scores\Scores\bin\Debug\net9.0\Scores.deps.json
+C:\Users\Public\Scores\Scores\bin\Debug\net9.0\Scores.runtimeconfig.json
+C:\Users\Public\Scores\Scores\bin\Debug\net9.0\Scores.dll
+C:\Users\Public\Scores\Scores\bin\Debug\net9.0\Scores.pdb
+C:\Users\Public\Scores\Scores\obj\Debug\net9.0\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Scores\Scores\obj\Debug\net9.0\Scores.AssemblyInfoInputs.cache
+C:\Users\Public\Scores\Scores\obj\Debug\net9.0\Scores.AssemblyInfo.cs
+C:\Users\Public\Scores\Scores\obj\Debug\net9.0\Scores.csproj.CoreCompileInputs.cache
+C:\Users\Public\Scores\Scores\obj\Debug\net9.0\Scores.dll
+C:\Users\Public\Scores\Scores\obj\Debug\net9.0\refint\Scores.dll
+C:\Users\Public\Scores\Scores\obj\Debug\net9.0\Scores.pdb
+C:\Users\Public\Scores\Scores\obj\Debug\net9.0\Scores.genruntimeconfig.cache
+C:\Users\Public\Scores\Scores\obj\Debug\net9.0\ref\Scores.dll

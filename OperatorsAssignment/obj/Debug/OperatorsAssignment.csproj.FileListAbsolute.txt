@@ -1,0 +1,7 @@
+C:\Users\Public\Operators Assignment Submission\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe.config
+C:\Users\Public\Operators Assignment Submission\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe
+C:\Users\Public\Operators Assignment Submission\OperatorsAssignment\bin\Debug\OperatorsAssignment.pdb
+C:\Users\Public\Operators Assignment Submission\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\Public\Operators Assignment Submission\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Public\Operators Assignment Submission\OperatorsAssignment\obj\Debug\OperatorsAssignment.exe
+C:\Users\Public\Operators Assignment Submission\OperatorsAssignment\obj\Debug\OperatorsAssignment.pdb

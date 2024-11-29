@@ -1,0 +1,7 @@
+C:\Users\Public\Console App Strings and Integers Assignment\ConsoleAppStringsAndIntegersAssignment\bin\Debug\ConsoleAppStringsAndIntegersAssignment.exe.config
+C:\Users\Public\Console App Strings and Integers Assignment\ConsoleAppStringsAndIntegersAssignment\bin\Debug\ConsoleAppStringsAndIntegersAssignment.exe
+C:\Users\Public\Console App Strings and Integers Assignment\ConsoleAppStringsAndIntegersAssignment\bin\Debug\ConsoleAppStringsAndIntegersAssignment.pdb
+C:\Users\Public\Console App Strings and Integers Assignment\ConsoleAppStringsAndIntegersAssignment\obj\Debug\ConsoleAppStringsAndIntegersAssignment.csproj.AssemblyReference.cache
+C:\Users\Public\Console App Strings and Integers Assignment\ConsoleAppStringsAndIntegersAssignment\obj\Debug\ConsoleAppStringsAndIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Public\Console App Strings and Integers Assignment\ConsoleAppStringsAndIntegersAssignment\obj\Debug\ConsoleAppStringsAndIntegersAssignment.exe
+C:\Users\Public\Console App Strings and Integers Assignment\ConsoleAppStringsAndIntegersAssignment\obj\Debug\ConsoleAppStringsAndIntegersAssignment.pdb
